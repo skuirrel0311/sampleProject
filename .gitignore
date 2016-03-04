@@ -1,1 +1,8 @@
 /[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+*.sln
+*.suo
+*.csproj
+*.userprefs
+*.htm
